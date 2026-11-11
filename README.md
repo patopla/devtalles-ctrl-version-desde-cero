@@ -4,7 +4,7 @@
 ![Release](https://img.shields.io/github/v/release/patopla/devtalles-ctrl-version-desde-cero)
 ![Issues](https://img.shields.io/github/issues/patopla/devtalles-ctrl-version-desde-cero)
 ![Último commit](https://img.shields.io/github/last-commit/patopla/devtalles-ctrl-version-desde-cero)
-![Licencia](https://img.shields.io/github/license/patopla/devtalles-ctrl-version-desde-cero)
+![Licencia](https://img.shields.io/github/license/patopla/devtalles-ctrl-version-desde-cero?cacheSeconds=60)
 
 
 # 🦹‍♂️ La Legión del Mal
