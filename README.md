@@ -7,7 +7,11 @@
 ![Licencia](https://img.shields.io/github/license/patopla/devtalles-ctrl-version-desde-cero?cacheSeconds=60)
 
 
+<<<<<<< HEAD
 # 🦹‍♂️ La Legión del Mal - actualizar a local
+=======
+# 🦹‍♂️ La Legión del Mal - Desde repositorio remoto.
+>>>>>>> c9e8872 (docs: Actualizar README.md con repo remoto)
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones"_
 > — Lex Luthor, fundador
