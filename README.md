@@ -1,3 +1,12 @@
+![Estático](https://img.shields.io/badge/Legion--del--Mal-Activa-red)
+
+![Workflow](https://img.shields.io/github/actions/workflow/status/patopla/devtalles-ctrl-version-desde-cero/ci.yml)
+![Release](https://img.shields.io/github/v/release/patopla/devtalles-ctrl-version-desde-cero)
+![Issues](https://img.shields.io/github/issues/patopla/devtalles-ctrl-version-desde-cero)
+![Último commit](https://img.shields.io/github/last-commit/patopla/devtalles-ctrl-version-desde-cero)
+![Licencia](https://img.shields.io/github/license/patopla/devtalles-ctrl-version-desde-cero)
+
+
 # 🦹‍♂️ La Legión del Mal
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
