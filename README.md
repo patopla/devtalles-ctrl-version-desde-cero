@@ -7,7 +7,7 @@
 ![Licencia](https://img.shields.io/github/license/patopla/devtalles-ctrl-version-desde-cero?cacheSeconds=60)
 
 
-# 🦹‍♂️ La Legión del Mal
+# 🦹‍♂️ La Legión del Mal - actualizar a local
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones"_
 > — Lex Luthor, fundador
