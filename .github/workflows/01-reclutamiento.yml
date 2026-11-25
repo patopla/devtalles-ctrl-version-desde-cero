@@ -1,0 +1,14 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Reclutamiento de Agente
+
+# Controls when the workflow will run
+on: push
+
+jobs:
+    Reporte-de-reclutamiento:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: El agente se presenta
+              run: echo "Soy Lex Luthon, y el líder de la legión del mal"
